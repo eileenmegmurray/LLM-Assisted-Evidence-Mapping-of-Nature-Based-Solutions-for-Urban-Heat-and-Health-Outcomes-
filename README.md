@@ -103,9 +103,11 @@ LLM-assisted topic modeling can organize a heterogeneous public health corpus in
 
 | File | Description |
 |---|---|
-| `murrayeileen_finalprojectepid695` | Full pipeline: PubMed retrieval, preprocessing, TF-IDF baseline, BERTopic, LLM summaries |
-| `AUDIT_FILE_NAME.csv` | Manual quality audit of LLM summaries |
+| `murrayeileen_finalprojectepid695.py` | Full pipeline: PubMed retrieval, preprocessing, TF-IDF baseline, BERTopic, LLM summaries |
+| `epid695_AUDIT.csv` | Manual quality audit of LLM summaries |
 | `README.md` | Project overview |
+|`murrayeileen_epid695_COPY.pptx`| Final presentation |
+|`MurrayEileen_FINALPROJECT_EPID695.docx`| Full paper|
 
 ## AI-Use Disclosure
 
