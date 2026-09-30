@@ -1,13 +1,12 @@
 # LLM-Assisted Evidence Mapping of Nature-Based Solutions for Urban Heat and Health Outcomes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Data: PubMed](https://img.shields.io/badge/Data-PubMed-555555?style=for-the-badge)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5849-1761)
 
 Final project for EPID 695: AI for Public Health and Biomedicine, CUNY Graduate School of Public Health and Health Policy (May 2026).
 
-An end-to-end pipeline that retrieves PubMed abstracts, discovers topics with BERTopic, benchmarks against a TF-IDF baseline, generates PMID-cited evidence summaries with an LLM, and audits those summaries manually for accuracy.
+An end-to-end pipeline that retrieves PubMed abstracts, discovers topics with BERTopic, benchmarks against a TF-IDF baseline, generates PMID-cited evidence summaries with an LLM, and audits those summaries manually for accuracy. AI-use as a tool assistant was highly encouraged for this course.
 
 ---
 
@@ -104,7 +103,7 @@ LLM-assisted topic modeling can organize a heterogeneous public health corpus in
 
 | File | Description |
 |---|---|
-| `NOTEBOOK_NAME.ipynb` | Full pipeline: PubMed retrieval, preprocessing, TF-IDF baseline, BERTopic, LLM summaries |
+| `murrayeileen_finalprojectepid695` | Full pipeline: PubMed retrieval, preprocessing, TF-IDF baseline, BERTopic, LLM summaries |
 | `AUDIT_FILE_NAME.csv` | Manual quality audit of LLM summaries |
 | `README.md` | Project overview |
 
